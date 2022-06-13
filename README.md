@@ -18,5 +18,8 @@ $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
 ![Image](./images/m.png)
 
 # Table with alignment
-__You can align text in the columns to the left, right, or center by adding a colon (:) to the left,
-right, or on both side of the hyphens within the header row.__
+You can align text in the columns to the left, right, or center by adding a colon (:) to the left,
+right, or on both side of the hyphens within the header row.
+
+| Syntax | Description | Test Text |
+| ----- | ----- | ----- |
