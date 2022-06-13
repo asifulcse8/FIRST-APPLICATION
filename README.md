@@ -16,3 +16,5 @@ $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
   - second sub-item
 
 ![Image](./images/m.png)
+
+# Table with alignment
