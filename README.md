@@ -8,3 +8,6 @@ $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
 2. Second item
 3. Third item a. second sub item
 4. Fourth Item
+
+- First Item
+- Second Item
